@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: About 
 ---
 
-This is an excellent About Page
+Rock Broth is a way of life. Share your rocks, and you'll be sipping broth in no time.
+

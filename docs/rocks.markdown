@@ -5,10 +5,4 @@
 layout: default
 ---
 
-![picture of rocks](rock.jpg "Rocks!").
- 
-
-Links
-[More about Rocks](/rocks.markdown)
- 
- 
+Rocks are great.
