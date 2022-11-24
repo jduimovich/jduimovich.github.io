@@ -5,7 +5,7 @@
 layout: default
 ---
 
-![picture of rocks](rock.jpg "Rocks!").
+![picture of rocks](rock.jpg "Rocks!")
  
 
 ### Links
