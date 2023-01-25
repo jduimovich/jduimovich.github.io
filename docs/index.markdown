@@ -7,6 +7,8 @@ layout: default
 
 ![picture of rocks](rock.jpg "Rocks!")
  
+[README](../README.md)
+
 
 ### Links
 
